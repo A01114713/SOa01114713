@@ -1,4 +1,4 @@
-#include <signal.h>
+#include <signal.h> //libreria para señales
 #include <stdio.h>
 #include <unistd.h> //libreria para sleep
 #include <stdbool.h>
