@@ -1,0 +1,6 @@
+Esto es un texto de prueba
+para utilizar en el codigo
+llamado copiar, el cual
+se saltara las lineas que 
+contengan la palabra hola
+para asi no pasar penas
